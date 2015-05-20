@@ -1,0 +1,36 @@
+* {
+    Box-sizing: Border-box
+}
+body {
+    font-size: 1.5em;
+}
+header {
+    background: #1B1C1D;
+    color: white;
+    text-align: center;
+    padding: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    height: 59px;
+    border-radius: 3px;
+}
+.player {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 960px;
+}
+.fa {
+    display: block;
+    color: #1B1C1D;
+    margin-top: 10px;
+    padding-top: 6px;
+    padding-right: 10px;
+    padding-left: 5px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    font-size: 23px;
+}
+hr {
+    color: #d7d7d7;
+}
